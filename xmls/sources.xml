@@ -1,0 +1,240 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>aliunde</name>
+            <path pathversion="1">https://www.fuse99.com/aliunde</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...a4k-openproject</name>
+            <path pathversion="1">https://a4k-openproject.github.io/repository.openwizard/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...a4k-openproject</name>
+            <path pathversion="1">https://a4k-openproject.github.io/a4kSubtitles/packages/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...addapp</name>
+            <path pathversion="1">https://addapp.club/ukturk/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...aenemapy</name>
+            <path pathversion="1">https://aenemapy.github.io/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...alivegr</name>
+            <path pathversion="1">https://alivegr.net/master/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...arxtic-ape</name>
+            <path pathversion="1">https://arxtic-ape.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...bugatsinho</name>
+            <path pathversion="1">https://bugatsinho.github.io/repo</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...castagnait</name>
+            <path pathversion="1">https://castagnait.github.io/repository.castagnait/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...catch-up-tv-and-more</name>
+            <path pathversion="1">https://catch-up-tv-and-more.github.io/repo</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...cmanbuilds</name>
+            <path pathversion="1">http://cmanbuilds.com/repo</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...cywteow</name>
+            <path pathversion="1">https://cywteow.github.io/repo</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...dabutcher</name>
+            <path pathversion="1">http://dabutcher.org/repo</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...diggz1</name>
+            <path pathversion="1">http://diggz1.me/diggzrepo</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...djaythemes</name>
+            <path pathversion="1">http://djaythemes.xyz/dj/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...dobbelina</name>
+            <path pathversion="1">https://dobbelina.github.io</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...doomzdayteam</name>
+            <path pathversion="1">https://doomzdayteam.github.io/doomzday</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...drinfernoo</name>
+            <path pathversion="1">https://drinfernoo.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...eintamil</name>
+            <path pathversion="1">https://eintamil.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...fantazyrepo</name>
+            <path pathversion="1">https://fantazyrepo.uk/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...funstersplace</name>
+            <path pathversion="1">http://funstersplace.net/funs/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...fuse99</name>
+            <path pathversion="1">https://fuse99.com/octopus/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...goldenfreddy0703</name>
+            <path pathversion="1">https://goldenfreddy0703.github.io/repository.hooty/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...grindhousekodi</name>
+            <path pathversion="1">http://grindhousekodi.tk/repo</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...gujal00</name>
+            <path pathversion="1">https://gujal00.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...jewbmx</name>
+            <path pathversion="1">https://jewbmx.github.io</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...k</name>
+            <path pathversion="1">http://k.slyguy.xyz</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...jurialmunkey</name>
+            <path pathversion="1">https://jurialmunkey.github.io/repository.jurialmunkey/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...loopaddon</name>
+            <path pathversion="1">https://loopaddon.uk/loop19</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...magnetic</name>
+            <path pathversion="1">http://magnetic.website/repo</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...mbebe</name>
+            <path pathversion="1">https://mbebe.github.io/blomqvist</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...mullafabz</name>
+            <path pathversion="1">http://mullafabz.xyz/Repository/K19</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...narcacist</name>
+            <path pathversion="1">http://narcacist.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...nixgates</name>
+            <path pathversion="1">https://nixgates.github.io/packages</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...palantirsource</name>
+            <path pathversion="1">https://palantirsource.github.io/palantir</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...repo</name>
+            <path pathversion="1">https://repo.gaiakodi.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...southpawlefty2468rocky</name>
+            <path pathversion="1">https://southpawlefty2468rocky.com/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...swagotaku</name>
+            <path pathversion="1">https://swagotaku.github.io/repo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...team-crew</name>
+            <path pathversion="1">http://team-crew.github.io/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...tikipeter</name>
+            <path pathversion="1">https://tikipeter.github.io</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...twiglet</name>
+            <path pathversion="1">http://twiglet.esy.es/canuck</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...www</name>
+            <path pathversion="1">http://www.ezzer-mac.com/repo</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...www</name>
+            <path pathversion="1">https://www.midian.appboxes.co/repo</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>...zeno1</name>
+            <path pathversion="1">https://zeno1.site/scripts/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+    <games>
+        <default pathversion="1"></default>
+    </games>
+</sources>
